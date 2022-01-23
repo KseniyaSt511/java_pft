@@ -12,3 +12,4 @@ public class Square {
     return this.l * this.l;
   }
 }
+
